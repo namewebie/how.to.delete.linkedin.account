@@ -1,6 +1,6 @@
 # How to Delete Linkedin Account?
 
-[![how to delete linkedin account](redd.png)](https://github.com/namewebie/how.to.delete.linkedin.account)
+[![how to delete linkedin account](redd.png)](https://icncomputer.com/how-to-delete-linkedin-account/)
 
 
 * To delete your account, visit the LinkedIn website, point to your profile picture icon at the top right corner of the page, and click “Manage” next to Privacy & Settings.
